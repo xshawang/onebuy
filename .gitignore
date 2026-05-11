@@ -51,3 +51,7 @@ src/auto-imports.d.ts
 yarn.lock
 package-lock.json
 .eslintrc-auto-import.json
+
+# env local overrides
+.env.local
+.env.*.local
