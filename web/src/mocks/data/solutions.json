@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sol_standard",
+    "title_zh": "标准打包方案",
+    "title_en": "Standard Packaging",
+    "desc_zh": "适用于大部分日常商品，含基础防护与缓冲。",
+    "desc_en": "Suitable for most everyday items. Basic protection & cushioning included.",
+    "priceCNY": 10,
+    "options": [
+      { "key": "Air-Column-Pack", "icon": "/images/packaging/Air-Column-PackAir-Column-Pack.png", "label_zh": "气柱包", "label_en": "Air Column Pack", "feeCNY": 0 },
+      { "key": "EPE-Wrap", "icon": "/images/packaging/EPE-Wrap.png", "label_zh": "珍珠棉包裹", "label_en": "EPE Wrap", "feeCNY": 0 },
+      { "key": "Stretch-Film", "icon": "/images/packaging/Stretch-Film.png", "label_zh": "拉伸膜", "label_en": "Stretch Film", "feeCNY": 2 },
+      { "key": "ShrinkWrap", "icon": "/images/packaging/ShrinkWrap.png", "label_zh": "收缩膜", "label_en": "Shrink Wrap", "feeCNY": 3 }
+    ],
+    "flow_zh": ["下单", "到仓", "验货", "打包", "出库"],
+    "flow_en": ["Order", "Arrival", "QC", "Packing", "Ship out"]
+  },
+  {
+    "id": "sol_premium",
+    "title_zh": "加固打包方案",
+    "title_en": "Premium Reinforced Packaging",
+    "desc_zh": "适合易碎或高价值商品，增加木架与二次验货。",
+    "desc_en": "For fragile or high-value items. Crate & second QC included.",
+    "priceCNY": 35,
+    "options": [
+      { "key": "Strengthened-Crate", "icon": "/images/packaging/Strengthened-Crate.png", "label_zh": "加固木架", "label_en": "Reinforced Crate", "feeCNY": 25 },
+      { "key": "EPE-Foam", "icon": "/images/packaging/EPE-Foam.png", "label_zh": "珍珠棉填充", "label_en": "EPE Foam Fill", "feeCNY": 5 },
+      { "key": "CornerGuard", "icon": "/images/packaging/CornerGuard.png", "label_zh": "护角", "label_en": "Corner Guard", "feeCNY": 3 },
+      { "key": "Second-Inspection", "icon": "/images/packaging/Second-Inspection.png", "label_zh": "二次验货", "label_en": "Second Inspection", "feeCNY": 5 },
+      { "key": "Product-Video", "icon": "/images/packaging/Product-Video.png", "label_zh": "商品视频", "label_en": "Product Video", "feeCNY": 5 },
+      { "key": "Vacuum-Bag", "icon": "/images/packaging/Vacuum-Bag.png", "label_zh": "真空袋", "label_en": "Vacuum Bag", "feeCNY": 4 }
+    ],
+    "flow_zh": ["下单", "到仓", "初次验货", "加固打包", "二次检查", "出库"],
+    "flow_en": ["Order", "Arrival", "First QC", "Reinforced Packing", "Second Check", "Ship out"]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "id": "p001",
+    "title_zh": "小众设计项链男士潮牌双层轻奢秋冬毛衣链嘻哈吊坠百搭新款配饰",
+    "title_en": "Niche Design Men's Layered Luxury Sweater Chain Hip-Hop Pendant Necklace",
+    "priceCNY": 89.0,
+    "images": [
+      "/images/products/p001-1.jpg",
+      "/images/products/p001-2.jpg",
+      "/images/products/p001-3.jpg"
+    ],
+    "skus": [
+      { "id": "s1", "color_zh": "银色", "color_en": "Silver", "size": "50cm" },
+      { "id": "s2", "color_zh": "金色", "color_en": "Gold", "size": "50cm" },
+      { "id": "s3", "color_zh": "银色", "color_en": "Silver", "size": "60cm" }
+    ],
+    "descriptionHtml_zh": "<p>男士小众设计项链，双层吊坠结构，适合日常百搭。材质为合金镀层，秋冬毛衣必备配饰。</p>",
+    "descriptionHtml_en": "<p>Men's niche-design layered pendant necklace. Plated alloy, perfect everyday accessory for autumn/winter.</p>",
+    "solutionIds": ["sol_standard", "sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p002",
+    "title_zh": "AONW秋冬新款苹果刺绣连帽卫衣女宽松设计感亮片加绒开衫外套",
+    "title_en": "AONW Apple Embroidery Hooded Sweatshirt Loose Fleece-Lined Cardigan",
+    "priceCNY": 268.0,
+    "images": [
+      "/images/products/p002-1.jpg",
+      "/images/products/p002-2.jpg",
+      "/images/products/p002-3.jpg"
+    ],
+    "skus": [
+      { "id": "s1", "color_zh": "黑色", "color_en": "Black", "size": "S" },
+      { "id": "s2", "color_zh": "黑色", "color_en": "Black", "size": "M" },
+      { "id": "s3", "color_zh": "米色", "color_en": "Beige", "size": "M" },
+      { "id": "s4", "color_zh": "米色", "color_en": "Beige", "size": "L" }
+    ],
+    "descriptionHtml_zh": "<p>苹果刺绣亮片设计，加绒保暖，宽松版型适合秋冬穿着。</p>",
+    "descriptionHtml_en": "<p>Apple-embroidery sequin design, fleece-lined for warmth. Loose fit for autumn/winter.</p>",
+    "solutionIds": ["sol_standard", "sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p003",
+    "title_zh": "日系复古文艺纯棉 T 恤女短袖宽松显瘦百搭",
+    "title_en": "Japanese Retro Cotton T-shirt Women Short Sleeve Loose Fit",
+    "priceCNY": 69.0,
+    "images": ["/images/products/p003-1.jpg"],
+    "skus": [
+      { "id": "s1", "color_zh": "白", "color_en": "White", "size": "M" },
+      { "id": "s2", "color_zh": "白", "color_en": "White", "size": "L" }
+    ],
+    "descriptionHtml_zh": "<p>100% 纯棉，舒适透气。</p>",
+    "descriptionHtml_en": "<p>100% cotton, breathable and comfortable.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "taobao"
+  },
+  {
+    "id": "p004",
+    "title_zh": "男士复古休闲夹克 轻薄防风外套",
+    "title_en": "Men's Retro Casual Lightweight Windproof Jacket",
+    "priceCNY": 349.0,
+    "images": ["/images/products/p004-1.jpg"],
+    "skus": [
+      { "id": "s1", "color_zh": "军绿", "color_en": "Army Green", "size": "L" }
+    ],
+    "descriptionHtml_zh": "<p>经典复古版型，轻薄面料。</p>",
+    "descriptionHtml_en": "<p>Classic retro silhouette, lightweight fabric.</p>",
+    "solutionIds": ["sol_standard", "sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p005",
+    "title_zh": "简约百搭纯色棒球帽 防晒遮阳帽",
+    "title_en": "Minimal Solid Color Baseball Cap Sun Hat",
+    "priceCNY": 39.0,
+    "images": ["/images/products/p005-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "黑", "color_en": "Black", "size": "均码" }],
+    "descriptionHtml_zh": "<p>简约设计，四季可戴。</p>",
+    "descriptionHtml_en": "<p>Minimal design, suitable for all seasons.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "taobao"
+  },
+  {
+    "id": "p006",
+    "title_zh": "运动休闲跑步鞋透气网面男鞋",
+    "title_en": "Sports Breathable Mesh Running Shoes for Men",
+    "priceCNY": 299.0,
+    "images": ["/images/products/p006-1.jpg"],
+    "skus": [
+      { "id": "s1", "color_zh": "黑白", "color_en": "Black/White", "size": "42" },
+      { "id": "s2", "color_zh": "黑白", "color_en": "Black/White", "size": "43" }
+    ],
+    "descriptionHtml_zh": "<p>网面透气，轻量缓震。</p>",
+    "descriptionHtml_en": "<p>Breathable mesh, lightweight cushioning.</p>",
+    "solutionIds": ["sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p007",
+    "title_zh": "时尚小众单肩包 ins 风高级感手提包",
+    "title_en": "Trendy Niche Shoulder Bag Chic Handbag",
+    "priceCNY": 159.0,
+    "images": ["/images/products/p007-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "奶白", "color_en": "Cream", "size": "均码" }],
+    "descriptionHtml_zh": "<p>高级感质地，百搭造型。</p>",
+    "descriptionHtml_en": "<p>Premium feel, versatile styling.</p>",
+    "solutionIds": ["sol_standard", "sol_premium"],
+    "from": "taobao"
+  },
+  {
+    "id": "p008",
+    "title_zh": "纯色高腰直筒牛仔裤宽松显瘦阔腿裤",
+    "title_en": "High-Waist Straight Wide-Leg Denim Jeans",
+    "priceCNY": 198.0,
+    "images": ["/images/products/p008-1.jpg"],
+    "skus": [
+      { "id": "s1", "color_zh": "浅蓝", "color_en": "Light Blue", "size": "27" },
+      { "id": "s2", "color_zh": "浅蓝", "color_en": "Light Blue", "size": "28" }
+    ],
+    "descriptionHtml_zh": "<p>高腰显瘦，舒适弹性。</p>",
+    "descriptionHtml_en": "<p>High-waist slim fit, stretchy comfort.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "tmall"
+  },
+  {
+    "id": "p009",
+    "title_zh": "INS 风针织短袖 夏季薄款修身上衣",
+    "title_en": "INS-Style Knitted Short-Sleeve Slim Top",
+    "priceCNY": 119.0,
+    "images": ["/images/products/p009-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "粉", "color_en": "Pink", "size": "F" }],
+    "descriptionHtml_zh": "<p>清爽针织，夏季必备。</p>",
+    "descriptionHtml_en": "<p>Refreshing knit, summer essential.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "taobao"
+  },
+  {
+    "id": "p010",
+    "title_zh": "简约复古方形石英手表学生情侣款",
+    "title_en": "Minimal Retro Square Quartz Watch for Couples",
+    "priceCNY": 229.0,
+    "images": ["/images/products/p010-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "棕", "color_en": "Brown", "size": "标准" }],
+    "descriptionHtml_zh": "<p>复古方形表盘，真皮表带。</p>",
+    "descriptionHtml_en": "<p>Retro square dial with leather strap.</p>",
+    "solutionIds": ["sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p011",
+    "title_zh": "北欧风简约陶瓷马克杯带盖勺",
+    "title_en": "Nordic Minimal Ceramic Mug with Lid & Spoon",
+    "priceCNY": 49.0,
+    "images": ["/images/products/p011-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "白", "color_en": "White", "size": "400ml" }],
+    "descriptionHtml_zh": "<p>陶瓷材质，带盖带勺。</p>",
+    "descriptionHtml_en": "<p>Ceramic mug with matching lid and spoon.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "taobao"
+  },
+  {
+    "id": "p012",
+    "title_zh": "新款真皮钱包男短款简约卡包",
+    "title_en": "Men's Genuine Leather Short Wallet Card Holder",
+    "priceCNY": 179.0,
+    "images": ["/images/products/p012-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "黑", "color_en": "Black", "size": "均码" }],
+    "descriptionHtml_zh": "<p>头层牛皮，手感细腻。</p>",
+    "descriptionHtml_en": "<p>Top-grain leather, smooth touch.</p>",
+    "solutionIds": ["sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p013",
+    "title_zh": "无线蓝牙耳机降噪入耳式长续航",
+    "title_en": "Wireless Bluetooth Earbuds Noise-Cancelling",
+    "priceCNY": 459.0,
+    "images": ["/images/products/p013-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "白", "color_en": "White", "size": "标准" }],
+    "descriptionHtml_zh": "<p>ANC 主动降噪，30 小时续航。</p>",
+    "descriptionHtml_en": "<p>ANC noise cancelling, 30-hour battery life.</p>",
+    "solutionIds": ["sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p014",
+    "title_zh": "多功能轻便双肩包 商务休闲背包",
+    "title_en": "Multi-Function Lightweight Business Backpack",
+    "priceCNY": 329.0,
+    "images": ["/images/products/p014-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "深灰", "color_en": "Dark Grey", "size": "标准" }],
+    "descriptionHtml_zh": "<p>多隔层设计，USB 充电口。</p>",
+    "descriptionHtml_en": "<p>Multi-compartment with USB charging port.</p>",
+    "solutionIds": ["sol_standard", "sol_premium"],
+    "from": "tmall"
+  },
+  {
+    "id": "p015",
+    "title_zh": "日本进口零食大礼包 儿童节日礼盒",
+    "title_en": "Japanese Imported Snacks Gift Box",
+    "priceCNY": 188.0,
+    "images": ["/images/products/p015-1.jpg"],
+    "skus": [{ "id": "s1", "color_zh": "混合", "color_en": "Mixed", "size": "1 盒" }],
+    "descriptionHtml_zh": "<p>日本原装进口，多种口味。</p>",
+    "descriptionHtml_en": "<p>Imported from Japan, assorted flavors.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "taobao"
+  },
+  {
+    "id": "p016",
+    "title_zh": "韩版 ulzzang 工装短裤男女 ins 高街",
+    "title_en": "Korean Ulzzang Cargo Shorts High Street Unisex",
+    "priceCNY": 149.0,
+    "images": ["/images/products/p016-1.jpg"],
+    "skus": [
+      { "id": "s1", "color_zh": "卡其", "color_en": "Khaki", "size": "M" },
+      { "id": "s2", "color_zh": "卡其", "color_en": "Khaki", "size": "L" }
+    ],
+    "descriptionHtml_zh": "<p>多口袋工装风，百搭街头。</p>",
+    "descriptionHtml_en": "<p>Multi-pocket cargo style, street-ready.</p>",
+    "solutionIds": ["sol_standard"],
+    "from": "taobao"
+  }
+]
