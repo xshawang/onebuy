@@ -21,7 +21,7 @@ export default function Footer() {
         </div>
         <div style={{ fontSize: 12 }}>{t('common.slogan')}</div>
         <div style={{ fontSize: 12, marginTop: 12, opacity: 0.6 }}>
-          © {new Date().getFullYear()} OneClick Clone · Demo only, no real service.
+          © 2020 OneClick Cl .
         </div>
       </div>
     </AntFooter>

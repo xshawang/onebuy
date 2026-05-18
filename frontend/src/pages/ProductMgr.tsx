@@ -82,7 +82,7 @@ export default function ProductMgr() {
         pagination={{ pageSize: 10 }}
         scroll={{ x: 1200 }}
         columns={[
-          { title: '图片', dataIndex: 'image', width: 80, render: (v: string) => <Image src={v} width={48} height={48} style={{ objectFit: 'cover', borderRadius: 4 }} fallback="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48'><rect width='48' height='48' fill='%23f0f0f0'/></svg>" /> },
+          { title: '产品链接地址', dataIndex: 'image', width: 80, render: (v: string) => <Image src={v} width={48} height={48} style={{ objectFit: 'cover', borderRadius: 4 }} fallback="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48'><rect width='48' height='48' fill='%23f0f0f0'/></svg>" /> },
           { title: 'SKU', dataIndex: 'sku', width: 100 },
           { title: '中文名', render: (_, r) => r.title.zh, width: 220 },
           { title: 'English', render: (_, r) => r.title.en, width: 220 },
@@ -125,7 +125,7 @@ export default function ProductMgr() {
               </Form.Item>
             </Col>
             <Col span={8}><Form.Item label="来源" name="from"><Select options={FROM_OPTIONS} /></Form.Item></Col>
-            <Col span={16}><Form.Item label="图片地址" name="image"><Input placeholder="/images/products/xxx.jpg" /></Form.Item></Col>
+            <Col span={16}><Form.Item label="产品链接地址" name="image"><Input placeholder="/images/products/xxx.jpg" /></Form.Item></Col>
             <Col span={8}>
               <Form.Item label="状态" name="status">
                 <Select options={[{ label: '在售', value: 'on' }, { label: '下架', value: 'off' }]} />
