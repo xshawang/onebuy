@@ -61,7 +61,7 @@ export default function Dashboard() {
         />
       </Card>
       <Space style={{ marginTop: 16, color: '#999', fontSize: 12 }}>
-        数据由前端 mock API 提供（内存存储，刷新后重置）
+        
       </Space>
     </div>
   );
